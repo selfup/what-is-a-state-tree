@@ -1,1 +1,0 @@
-const Store = require('./store');
